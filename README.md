@@ -1,1 +1,3 @@
 # Education-of-Slovak-population-Analysis
+
+Project for Data Visualization course. Collaborated with a team of four to conduct an in-depth analysis of the education of Slovak population, focusing on various factors such as education levels, geographic residence, and age demographics. Explored the impact of historical events, particularly the fall of the previous regime, on educational outcomes and trends. Investigated how educational levels correlate with employment in the job market. Education in Slovakia is analyzed based on the 2021 census (data [source](https://www.scitanie.sk/obyvatelia/rozsirene-vysledky))
